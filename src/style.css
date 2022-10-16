@@ -1,0 +1,28 @@
+table{
+    margin-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+thead,tbody,tr{
+    width: 100%;
+}
+tr{
+    display: flex;
+}
+th{
+    background-color: black;
+    color: white;
+}
+td,th{
+    border: 1px solid black;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    vertical-align: middle;
+}
+.desc{
+    width: 10%;
+}
+.desc{
+    width: 50%;
+}
